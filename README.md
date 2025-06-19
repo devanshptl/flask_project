@@ -13,25 +13,6 @@ This is a beginner-friendly Flask application that performs CRUD (Create, Read, 
 - Flask-Pydantic
 - Docker & Docker Compose
 
----
-
-##  Project Structure
-
-```
-flask_project/
-├── app/
-│   ├── __init__.py
-│   ├── config.py
-│   ├── database.py
-│   ├── routes.py
-│   ├── schemas.py
-│   └── models.py
-├── app.py
-├── requirements.txt
-├── Dockerfile
-├── docker-compose.yml
-└── README.md
-```
 
 ---
 
